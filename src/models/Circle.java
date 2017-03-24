@@ -14,12 +14,4 @@ public class Circle extends Shape {
     public int square() {
         return (int) Math.round(2 * Math.PI * radius * radius);
     }
-
-    public int getRadius() {
-        return radius;
-    }
-
-    public void setRadius(final int radius) {
-        this.radius = radius;
-    }
 }
