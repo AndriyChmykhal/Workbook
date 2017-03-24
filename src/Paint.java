@@ -20,7 +20,7 @@ public class Paint {
     }
 
     private static void printSquare(Shape shape) {
-        System.out.println("Calculating the sqare of " + shape.getName());
-        System.out.println(shape.sqare());
+        System.out.println("Calculating the square of " + shape.getName());
+        System.out.println(shape.square());
     }
 }

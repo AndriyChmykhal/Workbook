@@ -11,7 +11,7 @@ public class Circle extends Shape {
     }
 
     @Override
-    public int sqare() {
+    public int square() {
         return (int) Math.round(2 * Math.PI * radius * radius);
     }
 

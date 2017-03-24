@@ -13,7 +13,7 @@ public class Rectangle extends Shape {
     }
 
     @Override
-    public int sqare() {
+    public int square() {
         return x * y;
     }
 

@@ -4,7 +4,7 @@ package models;
 public abstract class Shape {
     protected String name;
 
-    public int sqare() {
+    public int square() {
         return 0;
     }
 
